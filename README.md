@@ -14,7 +14,7 @@
 2) установил и настроил runner
 ![Раннер](https://github.com/DefAKAAlex/gitlab-iskryanov/blob/main/push.png)
 
-![Раннер](https://github.com/DefAKAAlex/gitlab-iskryanov/blob/main/runner2.png)
+![Раннер2](https://github.com/DefAKAAlex/gitlab-iskryanov/blob/main/runner2.png)
 
 
 # Задание 2
