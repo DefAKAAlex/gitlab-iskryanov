@@ -31,7 +31,7 @@
 ```
 git clone https://github.com/netology-code/sdvps-materials.git
 git remote remove origin
-git push -u http://def1:glpat-BSRS3gSQCC7zC-Z87Aib@81.26.187.92/root/project-iskryanov.git main
+git push -u http://def1:gl************ib@81.26.187.92/root/project-iskryanov.git main
 git push -u origin main
 ```
 
