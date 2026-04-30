@@ -1,0 +1,21 @@
+stages:
+  - test
+  - validate
+
+test:
+  stage: test
+  image: alpine:latest
+  script:
+    - echo "Pipeline работает!"
+    - echo "Успех!"
+  tags:
+    - docker
+
+validate_compose:
+  stage: validate
+  image: docker/compose:latest
+  script:
+    - docker-compose config
+    - echo "docker-compose.yaml нормальный"
+  tags:
+    - docker
